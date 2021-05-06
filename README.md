@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ludwig-a11
 - 👀 I’m interested in... Web Development, Game Development
 - 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... any project which let me lear more 
+- 💞️ I’m looking to collaborate on ... any project which let me learn more 
 - 📫 How to reach me ... boue123@gmail 
 
 <!---
